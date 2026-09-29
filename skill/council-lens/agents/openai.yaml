@@ -1,0 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+interface:
+  display_name: "Council Lens"
+  short_description: "Evidence-aware multi-perspective review for consequential decisions"
+  brand_color: "#2F3B45"

@@ -1,0 +1,7 @@
+# Notice
+
+Council Lens is an independent ChatGPT Skill implementation by LK.
+
+It is conceptually inspired by public council-style LLM deliberation work, including Andrej Karpathy's `llm-council` project and Ole Lehmann's Claude-oriented council skill. No source code, prompt text, or documentation from those projects is included in this Skill.
+
+This Skill is distributed as part of the Council Lens repository under Apache License 2.0. Third-party project names and OpenAI/ChatGPT marks are used only for identification or compatibility description.

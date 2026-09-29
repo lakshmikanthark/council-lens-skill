@@ -1,0 +1,12 @@
+Council Lens Skill
+Copyright 2026 LK
+
+This product includes original software and documentation licensed under the Apache License, Version 2.0.
+
+Conceptual acknowledgements:
+- Andrej Karpathy's public "LLM Council" project helped popularize a multi-response, peer-review, synthesis pattern for LLM-assisted deliberation.
+- Ole Lehmann's public Claude-oriented LLM Council skill demonstrated a skill-based adaptation of a council workflow.
+
+No source code, prompt text, documentation, or other repository files from those projects are included in this distribution. They are not dependencies of this project. The Apache-2.0 license in this repository applies only to the original implementation and documentation contained here; it does not grant rights in third-party works, names, or trademarks.
+
+OpenAI and ChatGPT are trademarks of OpenAI. This is an independent community project and is not affiliated with, endorsed by, or sponsored by OpenAI.
