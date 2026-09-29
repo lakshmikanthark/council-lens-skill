@@ -1,0 +1,24 @@
+# SPDX-License-Identifier: Apache-2.0
+name: Feature request
+description: Suggest an improvement to decision quality, safety, evaluation, or tooling
+title: "[Feature]: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Decision problem to improve
+      description: Describe the failure mode or missing capability before proposing a solution.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed improvement
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Example or evaluation case
+      description: Add a sanitized prompt/example showing how success could be tested.
